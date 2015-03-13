@@ -1,0 +1,7 @@
+machine:
+
+    php: 5.4.21
+
+    test:
+        post:
+            - ./bin/phpspec run

@@ -1,0 +1,24 @@
+{
+    "name": "vividcortex/recaptcha-validator",
+    "description": "A reCaptcha validator",
+    "require": {
+        "guzzlehttp/guzzle": "~5.2"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ismael Ambrosi",
+            "email": "ismael@vividcortex.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": { "VividCortex\\": "src/" }
+    }
+}
