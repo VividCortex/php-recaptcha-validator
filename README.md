@@ -3,7 +3,7 @@ VividCortex reCaptcha Validator
 
 A simple validator for [Google's reCaptcha](https://developers.google.com/recaptcha/) responses written in PHP.
 
-[![Build status](https://circleci.com/gh/VividCortex/php-recaptcha-validator.png?circle-token=1169299e0e5b9375626c7310ba4d2bd880bcf26e)](https://circleci.com/gh/VividCortex/php-recaptcha-validator)
+[![Build status](https://circleci.com/gh/VividCortex/php-recaptcha-validator.png)](https://circleci.com/gh/VividCortex/php-recaptcha-validator)
 
 
 Installation
