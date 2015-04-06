@@ -21,6 +21,10 @@ How it works
 First, you need to instantiate a new _validator_ with your [secret key](http://www.google.com/recaptcha/admin) provided by Google.
 
 ```php
+use VividCortex\RecaptchaValidator\Validator;
+
+// ...
+
 $validator = new Validator($secret);
 ```
 
