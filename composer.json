@@ -16,6 +16,9 @@
         }
     ],
     "minimum-stability": "stable",
+    "suggest": {
+        "google/recaptcha": "This package has been deprecated in favor of Google's own recaptcha validator."
+    },
     "config": {
         "bin-dir": "bin"
     },
