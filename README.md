@@ -1,6 +1,14 @@
 VividCortex reCaptcha Validator
 ===============================
 
+Deprecation notice
+------------------
+
+This package has been deprecated in favor of [Google's own recaptcha validator](https://github.com/google/recaptcha).
+
+---
+
+
 A simple validator for [Google's reCaptcha](https://developers.google.com/recaptcha/) responses written in PHP.
 
 [![Build status](https://circleci.com/gh/VividCortex/php-recaptcha-validator.png)](https://circleci.com/gh/VividCortex/php-recaptcha-validator)
